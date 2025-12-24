@@ -2,7 +2,7 @@
 
 **Power Systems Engineer | AI & Optimization Enthusiast | P.E. | MSAI @ UT Austin**
 
-Welcome to my GitHub! I'm a licensed Professional Engineer with about 6 years of experience in power system planning, operations, and resource integration at ERCOT and LCRA. I'm passionate about bridging traditional energy systems with AI, machine learning, and automation.
+Welcome to my GitHub! I'm a licensed Professional Engineer with about 7 years of experience in power system planning, operations, and resource integration at ERCOT and LCRA. I'm passionate about bridging traditional energy systems with AI, machine learning, and automation.
 
 Currently pursuing a Master’s in Artificial Intelligence at the University of Texas at Austin, I'm working on projects that combine Python, grid modeling, optimization, and cloud infrastructure AWS Cloud practitioner Certified.
 
@@ -20,3 +20,5 @@ Currently pursuing a Master’s in Artificial Intelligence at the University of 
 
 **Portfolio:** [amirexir.github.io/portfolio](https://amirexir.github.io/portfolio)  
 **Email:** amir.exir@utexas.edu
+**Email:** contact@amirexirpe.com
+
