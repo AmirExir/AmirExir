@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a licensed Professional Engineer with about 6 years of experience in power system planning, operations, and resource integration at ERCOT and LCRA. I'm passionate about bridging traditional energy systems with AI, machine learning, and automation.
 
-Currently pursuing a Master’s in Artificial Intelligence at the University of Texas at Austin, I'm working on projects that combine Python, grid modeling, optimization, and cloud infrastructure (AWS Certified in progress).
+Currently pursuing a Master’s in Artificial Intelligence at the University of Texas at Austin, I'm working on projects that combine Python, grid modeling, optimization, and cloud infrastructure AWS Cloud practitioner Certified.
 
 ## Projects I'm Proud Of
 - **[Portfolio Website](https://amirexir.github.io/portfolio/):** My professional portfolio built with HTML/CSS/JavaScript
